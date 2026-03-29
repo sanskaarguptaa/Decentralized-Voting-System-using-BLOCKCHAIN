@@ -1,5 +1,4 @@
-# Decentralized Voting System (Production Ready)
-
+# Decentralized Voting System 
 Welcome to the production-ready Decentralized Voting application that utilizes Web3 technologies, smart contracts, and secure backend routing.
 
 ## 🚀 Key Improvements
